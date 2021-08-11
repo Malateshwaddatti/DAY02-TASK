@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<script>
+    //Excute the below code and write your descriptions int text file
+    //a.first qutions
+    console.log(typeof(1));
+    //b.secound questions
+    console.log(typeof(1.1));
+    //c.third questions
+    console.log(typeof("1.1"));
+    //d.fourth questions
+    console.log(typeof(true));
+    //e.fifth questions
+    console.log(typeof(null));
+    //f.sixth questions
+    console.log(typeof(undefined));
+    //g.seventh questions
+    console.log(typeof([]));
+    //h.eighth questions
+    console.log(typeof({}));
+    //i.ninetha questions
+    console.log(typeof(NaN));
+</script>
+    
+</body>
+</html>
